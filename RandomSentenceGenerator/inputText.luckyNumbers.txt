@@ -1,0 +1,14 @@
+//var luckyNumbers = ["Ako" : 31, "Justin" : 83, "Zak" : 28]
+//if let akosLuckyNumber = luckyNumbers["Ako"] {
+//    print ("Ako's lucky number is \(akosLuckyNumber)")
+//} else {
+//    print("Couldn't find the number")
+//}
+//
+//luckyNumbers["Aida"] = 16
+//
+//if let aidasLuckyNumber = luckyNumbers["Aida"] {
+//    print ("Aida's lucky number is \(aidasLuckyNumber)")
+//} else {
+//    print("Couldn't find Aida's number")
+//}

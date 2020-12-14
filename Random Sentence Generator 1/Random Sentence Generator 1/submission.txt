@@ -1,0 +1,27 @@
+5 random Unigram Sentences from Shakespeare:
+is o though since 's you although there sir 
+more , purpose me i , your your one [ love ? ; remember bestow ’ embrac way ; 
+battle you what . to should in 
+makes england have , he frank 
+is my our of can not to thoughts and 
+---------------------
+5 Random Bigram Sentences from Shakespeare:
+exeunt . 
+this fiend , feeds on your choler straight a nose when gloucester . 
+go ; here is now when i did first . 
+thou art , lord ? 
+o dear queen . 
+---------------------
+5 random Unigram Sentences from Conan Doyle:
+darkness . , a plainer really ending which it the lighted at very dear was listening must you , clear done , people poison and man . the the and with sidled that earn and his not 
+her and me . i i it i 
+“ director to of england daughter which the , anything. of had it you two holmes i your it fatal wrong shoulders for fulsome as , all that find hear ; companion always suit gregory 
+hilton we to , but will and the . advance have for `` and may where are “ fists your and could of . the man she for he here said sarcasm other breastpin comes , it the my i seen into there some , cried ” the in it circumstances ' the must world he can which this very 
+the found his this in permit he added know , , could enemy , my . which original face us ran which if in sorrow think you not committed remains 
+---------------------
+5 Random Bigram Sentences from Conan Doyle:
+he would bring home i found that it . 
+sherlock holmes . 
+meanwhile i had been recommended him and look , and his dress-coat -- and into the inquiry is very childish for some light i asked my client was it was in the police . 
+holmes chuckling at the local investigation which was a flower-bed . '' 
+square of money , but gradually , ' 

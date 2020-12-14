@@ -1,0 +1,4 @@
+Hello
+My name is Ako
+This is my input text file
+Hehe

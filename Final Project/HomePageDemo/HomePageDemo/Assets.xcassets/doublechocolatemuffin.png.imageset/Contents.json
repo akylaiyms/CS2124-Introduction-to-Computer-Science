@@ -1,0 +1,23 @@
+{
+  "images" : [
+    {
+      "filename" : "doublechocolatemuffin.1x.png",
+      "idiom" : "universal",
+      "scale" : "1x"
+    },
+    {
+      "filename" : "doublechocolatemuffin.2x.png",
+      "idiom" : "universal",
+      "scale" : "2x"
+    },
+    {
+      "filename" : "doublechocolate_muffin.png",
+      "idiom" : "universal",
+      "scale" : "3x"
+    }
+  ],
+  "info" : {
+    "author" : "xcode",
+    "version" : 1
+  }
+}
